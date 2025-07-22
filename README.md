@@ -29,15 +29,15 @@
 
 ## 📫 Let's Connect!
 
-<a href="https://www.linkedin.com/in/bassant-samy" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30"/>
-</a>
 <p align="center">
-  <a href="mailto:bassantsamy791@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30"/>
+  <a href="https://www.linkedin.com/in/bassant-samy">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bassantsamy791@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
   </a>
 </p>
-
 
 ---
 
