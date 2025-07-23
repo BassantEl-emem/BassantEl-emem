@@ -8,17 +8,17 @@
 
 ---
 
-## 📌 About Me
+##  About Me
 
-- 🎓 ITI Power BI Graduate  
-- 📊 Specialized in **Tableau** and **Power BI** dashboard design  
-- 💡 Passionate about data analytics, business intelligence, and data storytelling  
-- 🧠 Always learning and enhancing my **SQL** and data modeling skills  
-- 🚀 Currently working on creative dashboards and case studies
+-  ITI Power BI Graduate  
+-  Specialized in **Tableau** and **Power BI** dashboard design  
+-  Passionate about data analytics, business intelligence, and data storytelling  
+-  Always learning and enhancing my **SQL** and data modeling skills  
+-  Currently working on creative dashboards and case studies
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 - SQL, T-SQL  
 - Power BI, Tableau  
@@ -27,7 +27,7 @@
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bassant-samy">
@@ -42,7 +42,7 @@
 ---
 
 <p align="center">
-  💬 Feel free to explore my work and connect!
+   Feel free to explore my work and connect!
 </p>
 
 <p align="center">
